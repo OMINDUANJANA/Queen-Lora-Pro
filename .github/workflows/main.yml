@@ -52,7 +52,7 @@ jobs:
 
           scope: '@OMINDUANJANA/Queen-Lora-Pro'
 
-      - run: npm ci
+      - run: npm install
 
       - run: npm publish
 
