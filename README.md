@@ -1,5 +1,5 @@
 # Queen-Lora-pro
-
+[![Node.js Package](https://github.com/OMINDUANJANA/Queen-Lora-Pro/actions/workflows/npm-publish.yml/badge.svg?event=public)](https://github.com/OMINDUANJANA/Queen-Lora-Pro/actions/workflows/npm-publish.yml)
 Node - JavaScript client for Queen-Lora-pro
 The SDK allows you to receive and send messages through your WhatsApp account. [Sign up now](https://app.chat-api.com/)
 
