@@ -50,7 +50,7 @@ jobs:
 
           registry-url: https://npm.pkg.github.com/
 
-          scope: '@OMINDUANJANA/Queen-Lora-Pro'
+          scope: '@OMINDUANJANA'
 
       - run: npm install
 
